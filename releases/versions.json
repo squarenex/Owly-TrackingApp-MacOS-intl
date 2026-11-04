@@ -1,9 +1,15 @@
 {
-  "updated_at": "2026-11-03T11:00:24+00:00",
+  "updated_at": "2026-11-04T09:53:30+00:00",
   "platforms": {
     "macos_apple_silicon": {
-      "latest": "3.2",
+      "latest": "3.3",
       "versions": [
+        {
+          "version": "3.3",
+          "published_at": "2026-11-04T09:53:29+00:00",
+          "zip": "Owly-macOS-Intel-3.3.zip",
+          "dmg": "Owly-macOS-Intel-3.3.dmg"
+        },
         {
           "version": "3.2",
           "published_at": "2026-11-03T11:00:24+00:00",
@@ -115,8 +121,14 @@
       ]
     },
     "macos_intel": {
-      "latest": "3.2",
+      "latest": "3.3",
       "versions": [
+        {
+          "version": "3.3",
+          "published_at": "2026-11-04T09:53:28+00:00",
+          "zip": "Owly-macOS-Intel-3.3.zip",
+          "dmg": "Owly-macOS-Intel-3.3.dmg"
+        },
         {
           "version": "3.2",
           "published_at": "2026-11-03T11:00:24+00:00",
